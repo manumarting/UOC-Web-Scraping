@@ -22,8 +22,10 @@ Se puede instalar mediante el comando _pip install beautifulsoup4_
 El script se debe ejecutar de la siguiente manera:
 
         python gunpla_main.py
+        
+## Datos objetivo el scraping
 
-Los datos referentes a las maquetas de robots Gundam, (Gunpla), que se extraen de la web son los siguientes:
+La información que extraeremos de la web, es aquella referente a las maquetas de robots Gundam, (Gunpla), y que se compone de los siguietes campos:
 
   * Nombre
   * Fabricante
