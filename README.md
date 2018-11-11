@@ -21,7 +21,21 @@ Se puede instalar mediante el comando _pip install beautifulsoup4_
 
 El script se debe ejecutar de la siguiente manera:
 
-python gunpla_main.py
+        python gunpla_main.py
+
+Los datos referentes a las maquetas de robots Gundam, (Gunpla), que se extraen de la web son los siguientes:
+
+  * Nombre
+  * Fabricante
+  * Escala 
+  * Serie 
+  * Original 
+  * Fecha de lanzamiento
+  * Precio venta 
+  * Precio especial 
+  * Código JAN 
+  * Embalaje 
+  * Peso
 
 ## Ficheros de la práctica
 
