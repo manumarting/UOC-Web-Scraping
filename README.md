@@ -11,6 +11,18 @@ En esta práctica se han empleado diversas técnicas de web scraping, utilizando
 
 La práctica ha sido elaborada individualmente por **Luis Manuel Martín Guerra**
 
+## Bibliotecas necesarias para la ejecución del script
+
+Para el correcto funcionamiento del script, es necesario tener insalada la biblioteca **BeautifulSoup4**
+
+Se puede instalar mediante el comando _pip install beautifulsoup4_
+
+## Modo de empleo
+
+El script se debe ejecutar de la siguiente manera:
+
+python gunpla_main.py
+
 ## Ficheros de la práctica
 
 Los ficheros se organizan en tres directorios diferentes:
