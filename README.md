@@ -7,6 +7,8 @@
 Aquí se encuentran los ficheros correspendientes a la resolución de la PRACTICA 1 de la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya (UOC).
 En esta práctica se han empleado diversas técnicas de web scraping, utilizando para ello un script escrito en Python, que será el encargado de extraer los datos de una web dedicada a la venta de maquetas de la serie de anime "Gundam", _(https://www.1999.co.jp/eng/gundam/)_ y con dichos datos, generar un dataset en formato .csv 
 
+Todos los datos del dataset obtenido mediante el uso de los scripts que acompañan a esta práctica son de carácter meramente académico y no se usarán ni podrán ser usados por terceros. Los datos del dataset gunpla.csv son propiedad exclusiva de Hobby Search y no podrán ser empleados sin su autorización.
+
 ## Miembros del equipo
 
 La práctica ha sido elaborada individualmente por **Luis Manuel Martín Guerra**
@@ -23,7 +25,7 @@ El script se debe ejecutar de la siguiente manera:
 
         python gunpla_main.py
         
-## Datos objetivo el scraping
+## Datos objetivo del scraping
 
 La información que extraeremos de la web, es aquella referente a las maquetas de robots Gundam, (Gunpla), y que se compone de los siguietes campos:
 
