@@ -19,7 +19,7 @@ Los ficheros se organizan en tres directorios diferentes:
   
      **scr/gunpla_main.py**: es el archivo principal, y el que arranca el proceso de web scraping. Se emplea como punto de acceso a la ejecución del proceso y nos permitirá en un futuro ampliar las funcionalidades del script.
      
-     **scr/gunpla_scraper.py**: es el fichero que contiene la implementación de la clase _GunplaScraper_, que contiene los métodos que se emplean para las diferenes fases del data scraping de la web: _Captura de categorías, Captura de enlaces a productos, Extracción de datos de productos y generación del fichero de datos_. 
+     **scr/gunpla_scraper.py**: es el fichero que contiene la implementación de la clase _GunplaScraper_, que contiene los métodos que se emplean para las diferenes fases del data scraping de la web _(https://www.1999.co.jp/eng/gundam/)_: _Captura de categorías, Captura de enlaces a productos, Extracción de datos de productos y generación del fichero de datos_. 
      
 * **csv**/ Contiene el fichero _gunpla.csv_ obtenido como resultado del web scraping realizado por el script _gunpla_scraper.py_.
 
